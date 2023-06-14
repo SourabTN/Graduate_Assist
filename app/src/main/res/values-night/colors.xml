@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="navigation_drawer">#000000</color>
+    <color name="toolbar">#000000</color>
+    <color name="app_background">#000000</color>
+    <color name="drawer_item">#FFFFFF</color>
+    <color name="drawer_item_selected">#6DBA41</color>
+
+    <color name="textView_login">#FFFFFF</color>
+    <color name="textView_sub_login">#CCFFFFFF</color>
+    <color name="image_login">#FFFFFF</color>
+    <color name="view_login">#FFFFFF</color>
+    <color name="skip_button_login">#FFFFFF</color>
+    <color name="check_box_bg_login">#FFFFFF</color>
+    <color name="check_box_check_bg_login">#FFFFFF</color>
+    <color name="check_box_tick_login">#6DBA41</color>
+    <color name="check_box_circle_login">#6DBA41</color>
+    <color name="checkBox_terms_login">#FFFFFF</color>
+    <color name="checkBox_select_terms_login">#6DBA41</color>
+    <color name="button_google_line">#6DBA41</color>
+    <color name="button_facebook_line">#3B5999</color>
+    <color name="textView_fp">#FFFFFF</color>
+    <color name="imageView_fp">#FFFFFF</color>
+
+    <color name="textView_home">#FFFFFF</color>
+    <color name="slider_unSelect_home">#FFFFFF</color>
+    <color name="slider_select_home">#6DBA41</color>
+
+    <color name="view_pro">#222222</color>
+    <color name="view_line_pro">#BFFFFFFF</color>
+    <color name="textView_pro_image">#FFFFFF</color>
+    <color name="bg_image_pro">#222222</color>
+    <color name="imageView_border_pro">#BFFFFFFF</color>
+    <color name="textView_userName_pro">#FFFFFF</color>
+    <color name="textView_pro">#FFFFFF</color>
+    <color name="textView_sub_pro">#FFFFFF</color>
+    <color name="editText_pro">#FFFFFF</color>
+    <color name="textView_hint_pro">#FFFFFF</color>
+    <color name="textView_hint_layout_pro">#6DBA41</color>
+    <color name="textView_box_color">#99FFFFFF</color>
+    <color name="textView_box_select_color">#6DBA41</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">
+        @color/textView_box_color
+    </color>
+
+    <color name="category_bg_file_color">#80000000</color>
+
+    <color name="cardView_stork_ml_adapter">#FFFFFF</color>
+    <color name="recyclerView_bg_ml_fragment">#222222</color>
+
+    <color name="view_md">#BFFFFFFF</color>
+    <color name="textView_md">#FFFFFF</color>
+    <color name="ratingSelect">#FF9600</color>
+    <color name="ratingBarNormal">#92A5AE</color>
+    <color name="editText_comment_md">#FFFFFF</color>
+    <color name="comment_layout_bg_md">#262626</color>
+    <color name="comment_bg_md">#000000</color>
+    <color name="userComment_border_md">#BFFFFFFF</color>
+    <color name="userComment_border_mdl">#BFFFFFFF</color>
+
+    <color name="cast_adapter">#979ca0</color>
+    <color name="textView_comment_adapter">#FFFFFF</color>
+    <color name="textView_delete_comment_adapter">#ff0000</color>
+    <color name="textView_detail_comment_adapter">#9f9f9f</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="textView_setting">#FFFFFF</color>
+    <color name="view_setting">#BFFFFFFF</color>
+    <color name="switch_thumb_unSelect">#ADADAD</color>
+    <color name="textView_theme">#FFFFFF</color>
+    <color name="card_bg_theme">#424040</color>
+    <color name="textView_contactUs">#FFFFFF</color>
+    <color name="about_us_Text">#FFFFFF</color>
+    <color name="about_us_SubText">#BFFFFFFF</color>
+
+    <color name="dialog_text">#FFFFFF</color>
+    <color name="dialog_text_button">#FFFFFF</color>
+    <color name="textView_dialog_update">#FFFFFF</color>
+    <color name="textView_noData">#FFFFFF</color>
+    <color name="progressbar_style">#FFFFFF</color>
+    <color name="progressbar_splash">#FFFFFF</color>
+    <color name="cursor_editText">#FFFFFF</color>
+    <color name="textView_select_text">#4A6865</color>
+    <color name="textView_app_color">#6DBA41</color>
+    <color name="image_color">#FFFFFF</color>
+    <color name="line_all_spinner">#99FFFFFF</color>
+    <color name="button_bg">#6DBA41</color>
+    <color name="notification_color">#6DBA41</color>
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/estate"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/latest"
+            android:icon="@drawable/layers"
+            android:title="@string/latest" />
+        <item
+            android:id="@+id/university"
+            android:icon="@drawable/university"
+            android:title="@string/university" />
+        <item
+            android:id="@+id/subject"
+            android:icon="@drawable/swatchbook"
+            android:title="@string/subject" />
+        <item
+            android:id="@+id/favorites"
+            android:icon="@drawable/heart"
+            android:title="@string/favorite" />
+        <item
+            android:id="@+id/rank"
+            android:icon="@drawable/chart_line"
+            android:title="@string/rank" />
+        <item
+            android:id="@+id/group"
+            android:icon="@drawable/users_alt"
+            android:title="@string/group" />
+        <item
+            android:id="@+id/cost"
+            android:icon="@drawable/bill"
+            android:title="@string/cost" />
+        <item
+            android:id="@+id/compare"
+            android:icon="@drawable/exchange_alt"
+            android:title="@string/compare" />
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/user"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/setting"
+            android:title="@string/setting" />
+        <item
+            android:id="@+id/login"
+            android:icon="@drawable/signout"
+            android:title="@string/login" />
+    </group>
+
+</menu>

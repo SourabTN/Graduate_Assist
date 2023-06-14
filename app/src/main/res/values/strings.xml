@@ -1,0 +1,169 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Graduate Assist</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_title">Graduate Assist</string>
+    <string name="nav_sub_title">Graduate Assist</string>
+
+    <string name="scheme">https</string>
+    <string name="host">mdnhs.com</string>
+    <string name="pathPrefix">/</string>
+
+    <string name="get_scheme">graduate</string>
+    <string name="get_host">graduate_assist</string>
+    <string name="get_pathPrefix">/</string>
+
+    <string name="isRTL">false</string>
+
+    <string name="home">Home</string>
+    <string name="latest">Latest</string>
+    <string name="university">University</string>
+    <string name="subject">Subject</string>
+    <string name="rank">Uni Rank</string>
+    <string name="favorite">Favourite</string>
+    <string name="share_app">Share App</string>
+    <string name="cost">Living Cost</string>
+    <string name="compare">Compare</string>
+    <string name="about_us">About Us</string>
+    <string name="group">Group</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_condition">Terms condition</string>
+
+    <string name="ok">Ok</string>
+    <string name="number">0</string>
+    <string name="rate">(0/0)</string>
+    <string name="exit">Exit</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="loading">Loading....</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="failed_try_again">Failed try again</string>
+    <string name="you_have_not_login">You Have Not Login</string>
+    <string name="logout_message">Are you sure you want to logout</string>
+    <string name="wrong">Something went to wrong please try again later</string>
+    <string name="internet_connection">Internet connection not available</string>
+    <string name="storage_permission">Please allow storage permission</string>
+    <string name="upload_folder_error">Select from file manager then it will work</string>
+    <string name="Please_click_BACK_again_to_exit">Please click BACK again to exit</string>
+    <string name="Let_me_recommend_you_this_application">Let me recommend you this application</string>
+
+    <string name="app_name_about_us">abcd</string>
+    <string name="about_us_version">Version</string>
+    <string name="about_us_version_text">1.0</string>
+    <string name="about_us_author">Author</string>
+    <string name="about_us_Company">Company</string>
+    <string name="about_us_company_name">abcd</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">abcd@abcd.com</string>
+    <string name="about_us_website">Website</string>
+    <string name="about_us_website_text">www.abcd.com</string>
+    <string name="about_us_contact">Contact</string>
+    <string name="about_us_contact_text">+880 1776569369</string>
+    <string name="about_us_about">About</string>
+
+    <string name="welcome_back">Welcome back</string>
+    <string name="sign_into_continue">Sign in to continue</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="conform_password">Conform password</string>
+    <string name="phoneNo">Phone No</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="skip">Skip</string>
+    <string name="button_text_login">LOGIN</string>
+    <string name="google_login">Gmail login</string>
+    <string name="facebook_login">Facebook login</string>
+    <string name="terms_title">I have read and agree to the</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="dont_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="already_have_an_account_yet">Already have an account yet?</string>
+    <string name="send">Send</string>
+    <string name="forget_password"><![CDATA[Forget password?]]></string>
+    <string name="forget_password_text">Enter your email address below and we\'ll send you email with instructions on how to change your password</string>
+    <string name="please_enter_name">please enter name</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_phone">Please enter phone no</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="please_enter_confirm_password">Please enter confirm password</string>
+    <string name="please_select_terms">Please select terms and condition option</string>
+    <string name="password_not_match">Password and confirm password does not match</string>
+
+    <string name="see_all">See all</string>
+    <string name="latest_movie">Latest Info</string>
+    <string name="recent_movie">Recent Added</string>
+
+    <string name="admin_rating">Admin Rating:-</string>
+    <string name="description">Description</string>
+    <string name="photo_gallery">Photo Gallery</string>
+    <string name="related_movie">Related Info</string>
+    <string name="view_all">View All</string>
+    <string name="views">views</string>
+    <string name="cast">Facility:-</string>
+    <string name="rating">Rating....</string>
+    <string name="rating_status">Give at least one rating</string>
+    <string name="rating_des">How likely are you to recommend University Subject to other user? (1-low,5-high)</string>
+
+    <string name="delete">Delete</string>
+    <string name="comments">Comments</string>
+    <string name="all_comment">All Comment</string>
+    <string name="leave_your_comment">Leave your comment</string>
+    <string name="please_enter_comment">Please enter comment</string>
+    <string name="delete_comment">Are you sure want to delete this comment</string>
+
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="change_pass">Change password</string>
+    <string name="change_password_pro">Change Password</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="new_conform_password">New Conform Password</string>
+    <string name="please_enter_old_password">Please enter old password</string>
+    <string name="please_enter_new_password">Please enter new password</string>
+    <string name="please_enter_new_confirm_password">Please enter new confirm password</string>
+    <string name="new_password_not_match">New password and new confirm password does not match</string>
+
+    <string name="faq">Faq</string>
+    <string name="setting">Setting</string>
+    <string name="contact_us">Contact Us</string>
+
+    <string name="enable_push_notification">Enable push notification</string>
+<!--    <string name="subject">Subject</string>-->
+    <string name="your_message">Your Message</string>
+    <string name="please_enter_message">Please enter message</string>
+    <string name="select_contact_type">Select contact type</string>
+    <string name="please_select_contact_type">Please select contact type</string>
+    <string name="contact_detail">Please enter you contact details and admin will soon contact you.</string>
+
+    <string name="them">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="Ok_them">OK</string>
+    <string name="Cancel_them"><![CDATA[CANCEL]]></string>
+    <string name="choose_one">Choose one</string>
+    <string name="system_default">System default</string>
+
+    <string name="lorem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula sem a malesuada rhoncus.
+        Pellentesque ut dolor a dui porttitor porta lacinia non libero. Nunc volutpat arcu quis quam convallis molestie.
+    </string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="applovin_id" tools:ignore="Typos">FBZJ_9VAbH95a0MVJsIldv-Twlc8JBmTNKtNTMX3eh9DhVk_M0k-viWpS7ymJiJg1A2VXaZAGiOyC6yT6gX0N2</string>
+
+    <string name="play_more_app">https://play.google.com/store/apps/dev?id=7157478532572017100</string>
+    <string name="facebook_app_id">185517499964232</string>
+    <string name="fb_login_protocol_scheme">fb185517499964232</string>
+    <string name="facebook_client_token">95a6fb1a28326818a6f2d1cb31929021</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
